@@ -28,16 +28,16 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 </p>
 
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{aayush20jk}/count.svg)
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayush20jk&show_icons=true&locale=en&layout=compact" alt="sriyush" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush20jk&show_icons=true&locale=en" alt="sriyush" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush20jk&" alt="sriyush" /></p>
-
-#### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{aayush20jk}/count.svg)
-
 
 
 
